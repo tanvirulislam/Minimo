@@ -1,0 +1,120 @@
+body{
+    color: grey;
+    font-family: 'Playfair Display', serif;
+}
+
+/*common clas*/
+.common_title{
+    margin-top: 50px;
+    margin-bottom: 30px;
+    
+}
+
+
+
+.common_p{
+    padding: 10px 0;
+    color: darkgray;
+    text-shadow: 0 2px 7px;
+    
+}
+
+/*-------------*/
+header{
+    min-height: 100px;
+}
+
+.nav_color{
+    width: 90%;
+    margin: 0 auto;
+    color: grey !important;
+}
+
+.custom_nav{
+    
+}
+
+/*------------------*/
+.slider{
+/*    min-height: 570px;*/
+    
+}
+
+.width{
+    width: 100%;
+    cursor: pointer;
+    
+}
+
+
+/*deccription----------------*/
+
+.deccription{
+    min-height: 400px;
+    
+}
+
+.deccription p{
+    text-align: justify;
+}
+
+/*details----------*/
+.details{
+    
+}
+
+.details p{
+    text-align: justify;
+}
+
+/*sign_up--------------*/
+.sign_up{
+    min-height: 280px;
+    background-color: #F0F0F0;
+    
+}
+
+/*details2--------*/
+.details2{
+    
+}
+
+.details2 p{
+    text-align: justify;
+}
+
+.load_more{
+    border: 1px solid;
+    padding: 13px 43px;
+    color: gray;
+    font-weight: 500;
+    text-decoration: none !important;
+    text-shadow: 0 2px 7px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
